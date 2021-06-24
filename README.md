@@ -4,7 +4,7 @@ VacPred software is a machine-learning based package for prediction of Plant Vac
 Users must have to install the perl either of 32bits or 64bits from the link https://www.activestate.com/products/perl/.
 # Installation
 1.	Download VacPred by
-git clone https://github.com/ArvindYadav7/VacPred 
+        http://deepaklab.com/vacpred/ 
 
 2.	Unzip the download folder of VacPred
 3.	Double click on Setup to install VacPred 
